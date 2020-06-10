@@ -8,7 +8,7 @@ Example for a minimal Graph Convolutional Network project
 Clone repo and install package:
 
 ```
-git clone git@github.ibm.com:IBM-Research-AI/example-gcn-project.git
+git clone https://github.com/maet3608/example-gcn-project.git
 cd example-gcn-project
 python setup.py develop
 ```
